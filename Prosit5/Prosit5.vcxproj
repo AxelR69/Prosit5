@@ -120,14 +120,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CLexplorateur.cpp" />
+    <ClCompile Include="CLfichier.cpp" />
     <ClCompile Include="Climages.cpp" />
     <ClCompile Include="CLserviceImage.cpp" />
-    <ClCompile Include="CLservicesFichier.cpp" />
+    <ClCompile Include="CLserviceFichier.cpp" />
     <ClCompile Include="MyForm.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CLexplorateur.h" />
+    <ClInclude Include="CLfichier.h" />
     <ClInclude Include="Climages.h" />
     <ClInclude Include="CLserviceImage.h" />
     <ClInclude Include="CLserviceFichier.h" />

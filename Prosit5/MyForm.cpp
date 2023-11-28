@@ -11,6 +11,7 @@ int __clrcall Main(array<String^>^ args)
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
 	Prosit5::MyForm monFormulaire;
+	Application::Run(% monFormulaire);
 	return 0;
 }
 

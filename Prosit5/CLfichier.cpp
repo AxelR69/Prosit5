@@ -1,4 +1,4 @@
-#include "CLexplorateur.h"
+#include "CLfichier.h"
 namespace NS_composants
 {
 	array<String^>^ CLfichier::explorerUnDossier(String^ dossier)
